@@ -2,6 +2,11 @@
 
 Plug and play iOS react-native keyboard spacer view.
 
+## Demo
+
+
+![image](https://media.giphy.com/media/3oEjHJwLyYg7upTyYo/giphy.gif)
+
 ## Installation
 
 ```bash
